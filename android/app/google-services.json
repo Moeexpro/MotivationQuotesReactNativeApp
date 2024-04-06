@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "204097252941",
+    "project_id": "motivationapp-93a61",
+    "storage_bucket": "motivationapp-93a61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204097252941:android:db12545bc232bf46a8b604",
+        "android_client_info": {
+          "package_name": "com.motivatorandlaughterdailyquotesandjokes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204097252941-0889j0jjoujlm7vc5mcs9r1h2ajnrg19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motivatorandlaughterdailyquotesandjokes",
+            "certificate_hash": "61a404e27f907eaf58f68a59c71a41d9f4344faf"
+          }
+        },
+        {
+          "client_id": "204097252941-vi9172veomhgrfo9tjckg40605kraqj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motivatorandlaughterdailyquotesandjokes",
+            "certificate_hash": "4bc410a8c09276a1a5700ea17d970f1df643c896"
+          }
+        },
+        {
+          "client_id": "204097252941-sf9ci88vb0kpfahhl6j838uqnhc5t7ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO9XjjLnRRqblqy9R9kv5vyyCRntj7xX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204097252941-sf9ci88vb0kpfahhl6j838uqnhc5t7ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1427919207889091~3049079440"
+    }
+  ],
+  "configuration_version": "1"
+}
+
+
+
+
+
